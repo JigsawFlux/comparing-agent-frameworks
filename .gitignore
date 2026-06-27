@@ -217,3 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 MEMORY.md
+
+# Agent run output files
+notes_*.md
+report_*.md

@@ -1,6 +1,7 @@
-google-genai
+langchain-anthropic
+langchain-core
 langgraph
-langchain-google-genai
 crewai
+pyautogen
 duckduckgo-search
 python-dotenv
